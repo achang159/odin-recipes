@@ -1,5 +1,7 @@
 # odin-recipes
 <h1>Lessons Learned</h1>
+
+<h2>Project: Recipes</h2>
 <ul>
     <li>Set up boilerplate for HTML pages</li>
     <li>Add images and links to absolute and relative paths</li>
